@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Vibhukumar10
-- 👀 I’m interested in Web Development and Data Struuctures and Algorithms.
+- 👀 I’m interested in Web Development and Data Structures and Algorithms.
 - 🌱 I’m currently learning Front-end Frameworks.
 
 <!---
