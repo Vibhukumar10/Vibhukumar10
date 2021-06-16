@@ -44,7 +44,7 @@
 <br>
 <hr>
 
-![](https://github.com/https://github.com/Vibhukumar10/Vibhukumar10/blob/main/images/Life%20is%20like%20a%20Github%20repository%2C%20you%20are%20the%20master.%20Just%20keep%20pushing..png)
+<img src="https://github.com/Vibhukumar10/Vibhukumar10/blob/main/images/Life%20is%20like%20a%20Github%20repository%2C%20you%20are%20the%20master.%20Just%20keep%20pushing..png">
 
 ### 🏆 GitHub Profile Trophy:
 <p align="center">
