@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vibhu!</h1>
-<h3 align="center">A passionate developer from India</h3>
+<h2 align="center">A Student, developer.</h2>
 
 <!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=vibhukumar10&label=Profile%20views&color=0e75b6&style=flat" alt="vibhukumar10" /> </p> -->
 <p align="center"> 
