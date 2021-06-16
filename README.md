@@ -77,7 +77,7 @@
   <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
 </p>  
   </details>
-<p align="center"><img width="50%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vibhukumar10&layout=compact&theme=tokyonight" alt="Top Langs" /></p>
+<!-- <p align="center"><img width="50%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vibhukumar10&layout=compact&theme=tokyonight" alt="Top Langs" /></p> -->
 <details>
 	<summary><strong> GitHub Stats🌟 </strong></summary>
 	<table>
