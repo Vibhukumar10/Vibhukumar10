@@ -77,26 +77,7 @@
   <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
 </p>  
   </details>
-<hr>
-<!-- 
-### Some Stats
-
-<table tableborder=0>
-	<tr>		
-		<th width="50%"><a align="center" href="https://github.com/Vibhukumar10?tab=overview#year-list-container">✨ wakatime stats</a></th>
-		<th width="50%"><a align="center" href="https://github.com/Vibhukumar10?tab=repositories">🌟 Top Lanaguages</a></th>
-	</tr>
-	<tr>
-		<td>					
-			<img width="100%" height="auto" src="https://github-readme-stats.vercel.app/api/wakatime?username=Vibhukumar10&custom_title=My%20Weekly%20Stats&layout=compact&theme=tokyonight" alt="Wakatime Stats" />
-		</td>
-		<td>
-			<img width="100%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vibhukumar10&layout=compact&theme=tokyonight" alt="Top Langs" />
-		</td>
-	</tr>
-	</a>
-</table> -->
-
+<p align="center"><img width="50%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vibhukumar10&layout=compact&theme=tokyonight" alt="Top Langs" /></p>
 <details>
 	<summary><strong> GitHub Stats🌟 </strong></summary>
 	<table>
