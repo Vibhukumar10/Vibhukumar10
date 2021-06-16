@@ -38,7 +38,8 @@
 <a href="https://www.leetcode.com/vibhukumar10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vibhukumar10" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/vibhukumar10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="vibhukumar10" height="30" width="40" /></a>
 </p> -->
-<h1 align="center"><u>My skill stack💪</u></h1>
+<details>
+  <summary><strong>My skill-stack💪</strong></summary>
 <h3 align="left">Programming Languages: </h3>
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
@@ -75,13 +76,60 @@
   <a href="https://www.oracle.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a>    
   <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
 </p>  
+  </details>
 <hr>
+<!-- 
+### Some Stats
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vibhukumar10&show_icons=true&locale=en&theme=react&layout=compact" alt="vibhukumar10" /></p>
+<table tableborder=0>
+	<tr>		
+		<th width="50%"><a align="center" href="https://github.com/Vibhukumar10?tab=overview#year-list-container">✨ wakatime stats</a></th>
+		<th width="50%"><a align="center" href="https://github.com/Vibhukumar10?tab=repositories">🌟 Top Lanaguages</a></th>
+	</tr>
+	<tr>
+		<td>					
+			<img width="100%" height="auto" src="https://github-readme-stats.vercel.app/api/wakatime?username=Vibhukumar10&custom_title=My%20Weekly%20Stats&layout=compact&theme=tokyonight" alt="Wakatime Stats" />
+		</td>
+		<td>
+			<img width="100%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vibhukumar10&layout=compact&theme=tokyonight" alt="Top Langs" />
+		</td>
+	</tr>
+	</a>
+</table> -->
+
+<details>
+	<summary><strong> GitHub Stats🌟 </strong></summary>
+	<table>
+		<a align="center" href="https://github.com/Vibhukumar10">
+		<tr>
+			<td>					
+				<img width="100%" height="auto" src="https://github-readme-stats.vercel.app/api?username=Vibhukumar10&show_icons=true&hide_border=false&theme=tokyonight&count_private=true&include_all_commits=false" alt="Git Stats" />
+			</td>
+			<td>
+				<img width="100%" height="auto" src="https://github-readme-streak-stats.herokuapp.com/?user=Vibhukumar10&theme=tokyonight" alt="Dev Sharma's GitHub Streak" />
+			</td>
+		</tr>
+	</table>
+	<table>
+		<tr>
+			<td>
+				<img width="100%" height="auto" src="https://activity-graph.herokuapp.com/graph?username=Vibhukumar10&bg_color=1a1b27&color=be90f2&line=638fda&point=35aea1&area=true" alt="Daily Contribution Graph" />
+			</td>
+		</tr>
+		<tr colspan="2">
+			<td>
+				<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vibhukumar10&theme=monokai"  width="100%" height="auto"  alt="Monthly Contribution Graph" >
+			</td>
+		</tr>
+		</a>
+	</table>
+</details>
+
+<!-- <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vibhukumar10&show_icons=true&locale=en&theme=react&layout=compact" alt="vibhukumar10" /></p>
 
  <p align="center"><img alt="My Github stats" align="center" border-radius="40px" width="800px" height="200px" src="https://github-readme-stats.vercel.app/api?username=Vibhukumar10&count_private=true&show_icons=true&hide_border=true&theme=react" href="https://github.com/Vibhukumar10"/></p>
 
-<!-- <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=vibhukumar10&show_icons=true&locale=en" alt="vibhukumar10" /></p> -->
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=vibhukumar10&show_icons=true&locale=en" alt="vibhukumar10" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vibhukumar10&theme=react" alt="vibhukumar10" /></p>
 
@@ -92,12 +140,10 @@
 <a href="https://github.com/Vibhukumar10/Music-Genre-Classification">
   <img  src="https://github-readme-stats.vercel.app/api/pin/?username=Vibhukumar10&repo=Music-Genre-Classification&theme=react" />
 </a>
-</span>
+</span> -->
+
 <hr>
-<p align="center"> 
-  Visitor Count<br>
-  <img src="https://profile-counter.glitch.me/Vibhukumar10/count.svg" />
-</p>
+<h3 align="center">🔗Connect With Me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/vibhu-kumar-singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vibhu-kumar-singh" height="30" width="40" /></a>
 <a href="https://twitter.com/vibhukumarsing3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vibhukumarsing3" height="30" width="40" /></a>
@@ -107,4 +153,9 @@
 <a href="https://www.leetcode.com/vibhukumar10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vibhukumar10" height="30" width="40" /></a>
   <a href="https://www.codechef.com/users/vibhukumar10" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="vibhukumar10" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/vibhukumar10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="vibhukumar10" height="30" width="40" /></a>
+</p>
+<br>
+<p align="center"> 
+  Visitor Count<br>
+  <img src="https://profile-counter.glitch.me/Vibhukumar10/count.svg" />
 </p>
