@@ -6,7 +6,9 @@
   Visitor Count<br>
   <img src="https://profile-counter.glitch.me/Vibhukumar10/count.svg" />
 </p>
-
+<!-- <a href="mailto:amandewatnitrr@gmail.com">
+  <img align="left" alt="akd's codechef" width="70px" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" />
+</a>
 <a href="https://twitter.com/amandewatnitrr">
   <img align="left" alt="akd's Twitter" width="100px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" />
 </a>
@@ -19,27 +21,30 @@
 <a href="https://www.instagram.com/akd_beast_slayer/">
   <img align="left" alt="akd's Instagram" width="100px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
-<a href="https://www.youtube.com/channel/UCJ3giAOL-ycnqLDCA96AJag">
-  <img align="left" alt="akd's Youtube" width="100px" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white" />
-</a>
-<a href="https://www.coursera.org/user/b64b50f1306c84937347735b9120e533">
-  <img align="left" alt="kad's Coursera" width="100px" src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white" />
-</a>
-<a href="https://www.qwiklabs.com/public_profiles/d9014880-0e88-42ad-abee-5e6e5e380de5">
-  <img align="left" alt="akd's Qwiklab" width="100px" src="https://img.shields.io/badge/Qwiklabs-F5CD0E?style=for-the-badge&logo=Qwiklabs&logoColor=black" />
-</a>
-<br><br>
 <a href="https://www.hackerrank.com/amandewatnitrr?hr_r=1">
   <img align="left" alt="akd's hackerrank" width="100px" src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=black" />
 </a>
 <a href="https://www.codechef.com/users/amandewatnitrr">
   <img align="left" alt="akd's codechef" width="100px" src="https://img.shields.io/badge/Codechef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" />
-</a>
-<a href="mailto:amandewatnitrr@gmail.com">
-  <img align="left" alt="akd's codechef" width="70px" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" />
-</a>
+</a> -->
+<p align="center">
+<a href="https://twitter.com/vibhukumarsing3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vibhukumarsing3" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/vibhu-kumar-singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vibhu-kumar-singh" height="30" width="40" /></a>
+<a href="https://instagram.com/vibhukumar7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vibhukumar7" height="30" width="40" /></a>
+</p>
+<br>
+<p align="center">
+<a href="https://codepen.io/vibhukumar10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="vibhukumar10" height="30" width="40" /></a>
+<a href="https://dribbble.com/vibhukumar10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="vibhukumar10" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/vibhukumar10" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="vibhukumar10" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/vibhukumar10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vibhukumar10" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/vibhukumar10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="vibhukumar10" height="30" width="40" /></a>
+  </p>
+
 <br>
 <hr>
+
+![](https://github.com/amandewatnitrr/amandewatnitrr/blob/main/header_.png)
 
 ### 🏆 GitHub Profile Trophy:
 <p align="center">
