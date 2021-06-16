@@ -5,7 +5,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vibhukumar10" alt="vibhukumar10" /></a> </p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">🔗My Socials: </h3>
 <p align="left">
 <a href="https://codepen.io/vibhukumar10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="vibhukumar10" height="30" width="40" /></a>
 <a href="https://twitter.com/vibhukumarsing3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vibhukumarsing3" height="30" width="40" /></a>
