@@ -1,5 +1,21 @@
 <h1 align="center">Hi 👋, I'm Vibhu!</h1>
-<h2 align="center">A student, developer.</h2>
+<h2 align="center">I am a developer, I like to create stuff.</h2>
+
+```js
+
+document.write("Hello World");
+Developer dev = new Developer(Vibhukumar10);
+
+while(dev.isCoding() && dev.isStuck())  
+{
+  dev.openBrowser();
+  dev.openStackOverFlow();
+  dev.pasteCodeInIde();
+  dev.feelProfessional();
+}
+
+
+```
 
 - 🔭 I’m currently working my way through **Data Structures and Algorithms**📊
 
@@ -9,15 +25,17 @@
 
 - 💬 Ask me about:  **Web Development**🌐
 
-- 📫 How to reach me:  **vibhukumar1224@gmail.com**📧
+- 📫 How to reach me:  <strong>vibhukumar1224@gmail.com</strong>📧
 
 - 📄 Know about my experiences: [Resume🤓](https://www.linkedin.com/in/vibhu-kumar-singh/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAACzcMywBRFvKVRwnf0J8wCXLB7qr1jkIKmM,1635460607269)/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BmwllgLYuTHmuzNxNuzS9zg%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_flagship3_profile_view_base-featured_item_detail_view)
 
-- ⚡ Fun fact: **I love football!**⚽💖
+- ⚡ Fun fact: **I love football!** ⚽💖
 <!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=vibhukumar10&label=Profile%20views&color=0e75b6&style=flat" alt="vibhukumar10" /> </p> -->
 <hr>
 <img src="https://github.com/Vibhukumar10/Vibhukumar10/blob/main/images/Life%20is%20like%20a%20Github%20repository%2C%20you%20are%20the%20master.%20Just%20keep%20pushing..png">
 <hr>
+
+
 <!-- <h3>GitHub Profile Trophy 🏆:</h3>
 <p align="center">
 <a href="https://github.com/ryo-ma/github-profile-trophy">
