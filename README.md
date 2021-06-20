@@ -56,8 +56,9 @@ while(dev.isCoding() && dev.isStuck())
 <a href="https://www.leetcode.com/vibhukumar10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vibhukumar10" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/vibhukumar10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="vibhukumar10" height="30" width="40" /></a>
 </p> -->
-<details>
-  <summary><strong>My skill-stack💪</strong></summary>
+<!-- <details> -->
+<!--   <summary><strong>My skill-stack💪</strong></summary> -->
+<h2><strong>My skill-stack💪</strong></h2>
 <h3 align="left">Programming Languages: </h3>
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
@@ -94,7 +95,8 @@ while(dev.isCoding() && dev.isStuck())
   <a href="https://www.oracle.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a>    
   <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
 </p>  
-  </details>
+<hr>
+<!--   </details> -->
 <!-- <p align="center"><img width="50%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vibhukumar10&layout=compact&theme=tokyonight" alt="Top Langs" /></p> -->
 <details>
 	<summary><strong> GitHub Stats🌟 </strong></summary>
