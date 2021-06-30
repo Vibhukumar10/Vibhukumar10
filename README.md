@@ -1,5 +1,22 @@
 <h1 align="center">Hi 👋, I'm Vibhu!</h1>
 <h2 align="center">I am a developer, I like to create stuff.</h2>
+
+```js
+
+document.write("Hello World");
+Developer dev = new Developer(Vibhukumar10);
+
+while(dev.isCoding() && dev.isStuck())  
+{
+  dev.openBrowser();
+  dev.openStackOverFlow();
+  dev.pasteCodeInIde();
+  dev.feelProfessional();
+}
+
+
+```
+
 <h3 align="center">🔗Connect With Me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/vibhu-kumar-singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vibhu-kumar-singh" height="30" width="40" /></a>
@@ -17,21 +34,6 @@
   <img src="https://profile-counter.glitch.me/Vibhukumar10/count.svg" />
 </p>
 
-```js
-
-document.write("Hello World");
-Developer dev = new Developer(Vibhukumar10);
-
-while(dev.isCoding() && dev.isStuck())  
-{
-  dev.openBrowser();
-  dev.openStackOverFlow();
-  dev.pasteCodeInIde();
-  dev.feelProfessional();
-}
-
-
-```
 
 - 🔭 I’m currently working my way through **Data Structures and Algorithms**📊
 
