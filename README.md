@@ -17,6 +17,20 @@ while(dev.isCoding() && dev.isStuck())
 
 ```
 
+- 🔭 I’m currently working my way through **Data Structures and Algorithms**📊
+
+- 🌱 I’m currently learning:  **React**⚛️
+
+- 🤝 I’m looking for help with:  **Competitive Programming**💻
+
+- 💬 Ask me about:  **Web Development**🌐
+
+- 📫 How to reach me:  <strong>vibhukumar1224@gmail.com</strong>📧
+
+- 📄 Know about my experiences: [Resume🤓](https://www.linkedin.com/in/vibhu-kumar-singh/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAACzcMywBRFvKVRwnf0J8wCXLB7qr1jkIKmM,1635461839720)/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BBGyduArOQDGhljUT3fZheA%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_flagship3_profile_view_base-featured_item_detail_view)
+
+- ⚡ Fun fact: **I love football!** ⚽💖
+
 <h3 align="center">🔗Connect With Me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/vibhu-kumar-singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vibhu-kumar-singh" height="30" width="40" /></a>
@@ -35,19 +49,6 @@ while(dev.isCoding() && dev.isStuck())
 </p>
 
 
-- 🔭 I’m currently working my way through **Data Structures and Algorithms**📊
-
-- 🌱 I’m currently learning:  **React**⚛️
-
-- 🤝 I’m looking for help with:  **Competitive Programming**💻
-
-- 💬 Ask me about:  **Web Development**🌐
-
-- 📫 How to reach me:  <strong>vibhukumar1224@gmail.com</strong>📧
-
-- 📄 Know about my experiences: [Resume🤓](https://www.linkedin.com/in/vibhu-kumar-singh/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAACzcMywBRFvKVRwnf0J8wCXLB7qr1jkIKmM,1635461839720)/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BBGyduArOQDGhljUT3fZheA%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_flagship3_profile_view_base-featured_item_detail_view)
-
-- ⚡ Fun fact: **I love football!** ⚽💖
 <!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=vibhukumar10&label=Profile%20views&color=0e75b6&style=flat" alt="vibhukumar10" /> </p> -->
 <hr>
 <img src="https://github.com/Vibhukumar10/Vibhukumar10/blob/main/images/Life%20is%20like%20a%20Github%20repository%2C%20you%20are%20the%20master.%20Just%20keep%20pushing..png">
