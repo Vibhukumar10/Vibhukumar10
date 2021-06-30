@@ -31,24 +31,6 @@ while(dev.isCoding() && dev.isStuck())
 
 - ⚡ Fun fact: **I love football!** ⚽💖
 
-<h3 align="center">🔗Connect With Me:</h3>
-<p align="center">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/vibhu-kumar-singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vibhu-kumar-singh" height="30" width="40" /></a>
-<a href="https://twitter.com/vibhukumarsing3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vibhukumarsing3" height="30" width="40" /></a>
-<a href="https://instagram.com/vibhukumar7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vibhukumar7" height="30" width="40" /></a>
-<a href="https://codepen.io/vibhukumar10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="vibhukumar10" height="30" width="40" /></a>
-<a href="https://dribbble.com/vibhukumar10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="vibhukumar10" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/vibhukumar10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vibhukumar10" height="30" width="40" /></a>
-  <a href="https://www.codechef.com/users/vibhukumar10" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="vibhukumar10" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/vibhukumar10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="vibhukumar10" height="30" width="40" /></a>
-</p>
-<br>
-<p align="center"> 
-  Visitor Count<br>
-  <img src="https://profile-counter.glitch.me/Vibhukumar10/count.svg" />
-</p>
-
-
 <!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=vibhukumar10&label=Profile%20views&color=0e75b6&style=flat" alt="vibhukumar10" /> </p> -->
 <hr>
 <img src="https://github.com/Vibhukumar10/Vibhukumar10/blob/main/images/Life%20is%20like%20a%20Github%20repository%2C%20you%20are%20the%20master.%20Just%20keep%20pushing..png">
@@ -163,4 +145,20 @@ while(dev.isCoding() && dev.isStuck())
 </a>
 </span> -->
 
+<h3 align="center">🔗Connect With Me:</h3>
+<p align="center">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/vibhu-kumar-singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vibhu-kumar-singh" height="30" width="40" /></a>
+<a href="https://twitter.com/vibhukumarsing3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vibhukumarsing3" height="30" width="40" /></a>
+<a href="https://instagram.com/vibhukumar7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vibhukumar7" height="30" width="40" /></a>
+<a href="https://codepen.io/vibhukumar10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="vibhukumar10" height="30" width="40" /></a>
+<a href="https://dribbble.com/vibhukumar10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="vibhukumar10" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/vibhukumar10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vibhukumar10" height="30" width="40" /></a>
+  <a href="https://www.codechef.com/users/vibhukumar10" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="vibhukumar10" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/vibhukumar10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="vibhukumar10" height="30" width="40" /></a>
+</p>
+<br>
+<p align="center"> 
+  Visitor Count<br>
+  <img src="https://profile-counter.glitch.me/Vibhukumar10/count.svg" />
+</p>
 <hr>
