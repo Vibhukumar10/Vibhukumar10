@@ -43,7 +43,7 @@ while(dev.isCoding() && dev.isStuck())
 
 - 📫 How to reach me:  <strong>vibhukumar1224@gmail.com</strong>📧
 
-- 📄 Know about my experiences: [Resume🤓](https://www.linkedin.com/in/vibhu-kumar-singh/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAACzcMywBRFvKVRwnf0J8wCXLB7qr1jkIKmM,1635460607269)/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BmwllgLYuTHmuzNxNuzS9zg%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_flagship3_profile_view_base-featured_item_detail_view)
+- 📄 Know about my experiences: [Resume🤓](https://www.linkedin.com/in/vibhu-kumar-singh/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAACzcMywBRFvKVRwnf0J8wCXLB7qr1jkIKmM,1635461839720)/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BBGyduArOQDGhljUT3fZheA%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_flagship3_profile_view_base-featured_item_detail_view)
 
 - ⚡ Fun fact: **I love football!** ⚽💖
 <!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=vibhukumar10&label=Profile%20views&color=0e75b6&style=flat" alt="vibhukumar10" /> </p> -->
