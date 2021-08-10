@@ -1,3 +1,4 @@
+<!-- introduction -->
 <h1 align="center">Hi 👋, I'm Vibhu!</h1>
 <h2 align="center">I am a developer, I like to create stuff.</h2>
 
@@ -17,6 +18,7 @@ while(dev.isCoding() && dev.isStuck())
 
 ```
 
+
 - 🔭 I’m currently working my way through **Data Structures and Algorithms**📊
 
 - 🌱 I’m currently learning:  **React**⚛️
@@ -30,11 +32,16 @@ while(dev.isCoding() && dev.isStuck())
 - 📄 Know about my experiences: [Resume🤓](https://drive.google.com/file/d/1oF126fCSowyOAs1Xp97sLC_OkxRHfa_p/view?usp=sharing)
 
 - ⚡ Fun fact: **I love football!** ⚽💖
+<!-- ---------------- -->
+
+<!-- Banner -->
 
 <!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=vibhukumar10&label=Profile%20views&color=0e75b6&style=flat" alt="vibhukumar10" /> </p> -->
 <hr>
-<img src="https://github.com/Vibhukumar10/Vibhukumar10/blob/main/images/Life%20is%20like%20a%20Github%20repository%2C%20you%20are%20the%20master.%20Just%20keep%20pushing..png">
+<img src="https://github.com/Vibhukumar10/Vibhukumar10/blob/main/images/NewBannerDarkMode.png?raw=true">
 <hr>
+
+<!-- ---------------- -->
 
 
 <!-- <h3>GitHub Profile Trophy 🏆:</h3>
@@ -59,6 +66,11 @@ while(dev.isCoding() && dev.isStuck())
 </p> -->
 <!-- <details> -->
 <!--   <summary><strong>My skill-stack💪</strong></summary> -->
+
+
+<!-- Skill Stack -->
+
+
 <h2><strong>My skill-stack💪</strong></h2>
 <h3 align="left">Programming Languages: </h3>
 <p align="left">
@@ -100,6 +112,11 @@ while(dev.isCoding() && dev.isStuck())
 <hr>
 <!--   </details> -->
 <!-- <p align="center"><img width="50%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vibhukumar10&layout=compact&theme=tokyonight" alt="Top Langs" /></p> -->
+
+<!-- ---------------- -->
+
+<!-- Github Stats -->
+
 <details>
 	<summary><strong> GitHub Stats🌟 </strong></summary>
 	<table>
@@ -144,6 +161,8 @@ while(dev.isCoding() && dev.isStuck())
   <img  src="https://github-readme-stats.vercel.app/api/pin/?username=Vibhukumar10&repo=Music-Genre-Classification&theme=react" />
 </a>
 </span> -->
+
+<!-- My Socials -->
 
 <hr>
 <h3 align="center">🔗Connect With Me:</h3>
