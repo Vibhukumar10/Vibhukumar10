@@ -27,9 +27,9 @@ while(dev.isCoding() && dev.isStuck())
 
 - 💬 Ask me about:  **Web Development**🌐
 
-- 📫 How to reach me:  <strong>vibhukumar1224@gmail.com</strong>📧
-
 - 📄 Know about my experiences: [Resume🤓](https://drive.google.com/file/d/1LaB6BAUlEPUpwTgoClL0ieolJw9Rz7PP/view?usp=sharing)
+
+- 📫 How to reach me:  <strong>vibhukumar1224@gmail.com</strong>📧
 
 - ⚡ Fun fact: **I love football!** ⚽💖
 <!-- ---------------- -->
