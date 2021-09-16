@@ -69,7 +69,6 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- Skill Stack -->
 
-
 <h2><strong>My skill-stack💪</strong></h2>
 <h3 align="left">Programming Languages: </h3>
 <p align="left">
