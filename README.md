@@ -37,7 +37,7 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=vibhukumar10&label=Profile%20views&color=0e75b6&style=flat" alt="vibhukumar10" /> </p> -->
 <hr>
-<img src="https://github.com/Vibhukumar10/Vibhukumar10/blob/main/images/NewBannerDarkMode.png?raw=true">
+<img src="https://github.com/Vibhukumar10/Vibhukumar10/blob/main/images/github-user-contribution.svg">
 <hr>
 
 <!-- ---------------- -->
