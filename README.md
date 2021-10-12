@@ -30,7 +30,6 @@ while(dev.isCoding() && dev.isStuck())
 
 - 📄 Know about my experiences: [Resume🤓](https://drive.google.com/file/d/1LaB6BAUlEPUpwTgoClL0ieolJw9Rz7PP/view?usp=sharing)
 
-
 - ⚡ Fun fact: **I love football!** ⚽💖
 <!-- ---------------- -->
 
