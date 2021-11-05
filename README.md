@@ -37,7 +37,8 @@ while(dev.isCoding() && dev.isStuck())
 <hr>
 <!-- Gitbhu Contribution Snake -->
 <!-- <img src="https://github.com/Vibhukumar10/Vibhukumar10/blob/main/images/github-user-contribution.svg"> -->
-<img src="https://github.com/Vibhukumar10/Vibhukumar10/blob/main/images/NewBannerDarkMode.png">
+<!-- <img src="https://github.com/Vibhukumar10/Vibhukumar10/blob/main/images/NewBannerDarkMode.png"> -->
+<img src="github-contribution-grid-snake.svg">
 <hr>
 
 <!-- ---------------- -->
