@@ -35,7 +35,7 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=vibhukumar10&label=Profile%20views&color=0e75b6&style=flat" alt="vibhukumar10" /> </p> -->
 <hr>
-<!-- Gitbhu Contribution Snake -->
+<!-- Github Contribution Snake -->
 <!-- <img src="https://github.com/Vibhukumar10/Vibhukumar10/blob/main/images/github-user-contribution.svg"> -->
 <img src="https://github.com/Vibhukumar10/Vibhukumar10/blob/main/images/NewBannerDarkMode.png">
 <!-- <img src="https://raw.githubusercontent.com/Vibhukumar10/Vibhukumar10/4df145366776910157a32710d1caf8ad41c9b3ba/github-contribution-grid-snake.svg"> -->
