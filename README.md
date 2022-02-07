@@ -20,7 +20,7 @@ while(dev.isCoding() && dev.isStuck())
 
 - 🔭 I’m currently working my way through **Data Structures and Algorithms**📊
 
-- 🌱 I’m currently learning:  **React**⚛️
+- 🌱 I’m currently learning:  **Nodejs**
 
 - 🤝 I’m looking for help with:  **Competitive Programming**💻
 
