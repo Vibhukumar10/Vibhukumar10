@@ -31,7 +31,6 @@ while(dev.isCoding() && dev.isStuck())
 - 📄 Know about my experiences: [Resume🤓](https://drive.google.com/file/d/1LaB6BAUlEPUpwTgoClL0ieolJw9Rz7PP/view?usp=sharing)
 
 - ⚡ Fun fact: **I love football!** ⚽💖
-- 
 <!-- ---------------- -->
 
 <!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=vibhukumar10&label=Profile%20views&color=0e75b6&style=flat" alt="vibhukumar10" /> </p> -->
