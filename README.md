@@ -20,13 +20,11 @@ while(dev.isCoding() && dev.isStuck())
 
 - 🔭 I’m currently working my way through **Data Structures and Algorithms**📊
 
-- 🌱 I’m currently learning:  **Nodejs**
+- 🌱 I’m currently learning:  **Terraform**
 
-- 🤝 I’m looking for help with:  **Competitive Programming**💻
+- 💬 Ask me about:  **Cloud Native Deployments**🌐
 
-- 💬 Ask me about:  **Web Development**🌐
-
-- 📫 How to reach me:  <strong>vibhukumar1224@gmail.com</strong>📧
+- 📫 How to reach me:  <strong>vibhukumar12241@gmail.com</strong>📧
 
 - 📄 Know about my experiences: [Resume🤓](https://drive.google.com/file/d/1LaB6BAUlEPUpwTgoClL0ieolJw9Rz7PP/view?usp=sharing)
 
